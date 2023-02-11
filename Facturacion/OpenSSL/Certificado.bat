@@ -1,0 +1,3 @@
+C:\ARCHIVOS COMPARTIDOS\OpenSSL\openssl-0.9.8h-1-setup.exe x509 -inform DER -outform PEM -in C:\Users\david.vazquez\Desktop\certificados\aad990814bp7_1210261233s.cer -pubkey -out C:\Users\david.vazquez\Desktop\certificados\aad990814bp7_1210261233s.cer.PEM
+C:\ARCHIVOS COMPARTIDOS\OpenSSL\openssl-0.9.8h-1-setup.exe pkcs8 -inform DER -in C:\Users\david.vazquez\Desktop\certificados\aad990814bp7_1210261233s.key  -passin pass:12345678a -out C:\Users\david.vazquez\Desktop\certificados\aad990814bp7_1210261233s.key.PEM
+C:\ARCHIVOS COMPARTIDOS\OpenSSL\openssl-0.9.8h-1-setup.exe rsa -in C:\Users\david.vazquez\Desktop\certificados\aad990814bp7_1210261233s.key.PEM  -des3 -out C:\Users\david.vazquez\Desktop\certificados\aad990814bp7_1210261233s.key.ENC  -passout pass:12345678a
