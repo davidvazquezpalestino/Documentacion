@@ -1,0 +1,124 @@
+CFD|698
+Serie|Q
+Folio|189
+Divisa|MXN
+MetPago|NA
+FormaPago|Pago en una sola exibicion
+LugarExp|10400
+ImpLetra|NUEVE MIL TREINTA Y UN PESOS CON 3/100 MN
+ERFC|EMA9509285XT
+ENombre|EXCELENCIA MARVIN, S.C.
+RRFC|PARG890120BM3
+RNombre|PAULINO REMIGIO GUSTAVO
+SubTotal|10082.11
+Total|9031.03
+email|gustavo@pqm-quimicos.com
+|
+NumLin|1
+Cant|1
+UM|ACT
+Desc|Pago de nomina
+PrecioUnitario|10082.11
+Importe|10082.11
+TotNeto|10082.11
+MontoDescuento|1051.08
+TotalNeto|9031.03
+|
+CAMPO0|REGIMEN
+CAMPO1|601
+VersionNomina|1.2
+TotalPercepciones|10082.11
+TotalDeducciones|1051.08
+NumEmpleado|9
+Puesto|AYUDANTE GENERAL
+Departamento|PLANTA
+CURP|PARG890120HDFLMS07
+TipoRegimen|02
+NumSeguridadSocial|94128918284
+FechaInicioRElLaboral|2020-07-01
+Antiguedad|21
+TipoContrato|01
+RegistroPatronal|Y6221474106
+FechaPago|2020-11-30
+FechaInicialPago|2020-11-16
+FechaFinalPago|2020-11-30
+NumDiasPagados|15
+CuentaBancaria|2928421528
+Banco|012
+TipoJornada|01
+PeriodicidadPago|04
+SalarioBaseCotApor|298.40
+SalarioDiarioIntegrado|298.40
+SalarioDiario|0.00
+RiesgoPuesto|4
+TipoNomina|O
+ClaveEntFed|DIF
+Percepciones|1
+TotalSueldos|10082.11
+TotalGravado|4282.35
+TotalExento|799.76
+TotalDeducciones|1051.08
+TotalPercepciones|5082.11
+TotalOtroPago|5000.00
+Sindicalizado|No
+|
+Percepcion|1
+Clave|101
+Concepto|SUELDO
+ImporteGravado|4282.35
+TipoPercepcion|001
+ImporteExento|0.00
+|
+Percepcion|2
+Clave|119
+Concepto|VALES DE DESPENSA
+ImporteGravado|0.00
+TipoPercepcion|029
+ImporteExento|500.00
+|
+Percepcion|3
+Clave|120
+Concepto|FONDO DE AHORRO PATRON
+ImporteGravado|0.00
+TipoPercepcion|005
+ImporteExento|299.76
+|
+|
+Deducciones|1
+TotalOtrasDeducciones|708.11
+TotalImpuestosretenidos|342.97
+|
+Deduccion|1
+Clave|500
+Concepto|ISR
+TipoDeduccion|002
+ImporteDeduccion|342.97
+|
+Deduccion|2
+Clave|501
+Concepto|IMSS
+TipoDeduccion|001
+ImporteDeduccion|108.59
+|
+Deduccion|3
+Clave|520
+Concepto|RETENCION FONDO AHORRO EMP
+TipoDeduccion|004
+ImporteDeduccion|299.76
+|
+Deduccion|4
+Clave|521
+Concepto|RETENCION F AHORRO PATRON
+TipoDeduccion|004
+ImporteDeduccion|299.76
+|
+TipoOtroPago|002
+Clave|300
+Concepto|Subsidio al Empleo Pagado
+SubsidioCausado|0.00
+|
+OtroTipoPago|999
+Clave|125
+Concepto|Prestamo
+Importe|5000.00
+|
